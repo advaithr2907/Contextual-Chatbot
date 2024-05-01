@@ -1,4 +1,4 @@
-# qp-ai-assessment
+# CHATBOT
 
 Chatbot folder contains 2 folders:
 
