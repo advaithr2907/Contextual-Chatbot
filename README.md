@@ -1,5 +1,3 @@
-# CONTEXTUAL CHATBOT
-
 Create a simple contextual chatbot to read a long PDF/Word Docuement. The chatbot will use this document as a context to answer the questions. If the answer is not found in the document - it says I dont know the answer.
 
 Advanced - 
